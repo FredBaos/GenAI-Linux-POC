@@ -2,3 +2,4 @@
 
 ## Instructions
 source .venv/bin/activate
+git push -u origin release_0.1
